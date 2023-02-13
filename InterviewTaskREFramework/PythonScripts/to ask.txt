@@ -1,0 +1,6 @@
+
+system vs business exception,
+global handler,
+co zle w reframework dre mas
+performer dispatcher
+populate queue arguments

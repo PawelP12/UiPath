@@ -1,0 +1,11 @@
+﻿City Name,Temperature (Above/Below)
+Bridg3town,"Business Exception: City Name not valid, check whether the name of the city is properly written in input File"
+Austin,Above
+Prague,Above
+Johannesburg,Above
+Kuala Lumpur,Above
+Brussels,Below
+Brasilia,Below
+Perth,Above
+Nuuk,Below
+Tehran,Above
